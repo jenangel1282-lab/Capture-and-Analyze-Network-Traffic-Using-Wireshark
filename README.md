@@ -10,22 +10,22 @@ Tools Used:
 
 What I Did:
 
-*Installed and opened Wireshark on my PC.
-*Selected the active Wi-Fi network interface for packet capture.
-*Started capturing live network traffic.
-*Opened YouTube and played a video to generate normal internet traffic.
-*Used Windows Command Prompt to run 'ping 8.8.8.8' and generate ICMP traffic.
-*Stopped the packet capture after about one minute.
-*Applied Wireshark filters such as dns, tcp, tls and icmp to isolate different types of traffic.
-*Examined individual packets and checked details such as source and destination addresses, port numbers, packet length and protocol information.
+* Installed and opened Wireshark on my PC.
+* Selected the active Wi-Fi network interface for packet capture.
+* Started capturing live network traffic.
+* Opened YouTube and played a video to generate normal internet traffic.
+* Used Windows Command Prompt to run 'ping 8.8.8.8' and generate ICMP traffic.
+* Stopped the packet capture after about one minute.
+* Applied Wireshark filters such as dns, tcp, tls and icmp to isolate different types of traffic.
+* Examined individual packets and checked details such as source and destination addresses, port numbers, packet length and protocol information.
 
 Key Concepts Learned:
 
-*Packet capture
-*Network traffic analysis
-*Protocol analysis and awareness
-*Network traffic filtering
-*Basic network troubleshooting
+* Packet capture
+* Network traffic analysis
+* Protocol analysis and awareness
+* Network traffic filtering
+* Basic network troubleshooting
 
 Files:
 1. 'Task5.pdf' – Detailed task report
