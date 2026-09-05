@@ -1,7 +1,7 @@
 Cybersecurity Internship from Elevate Lab
 Task 5: Capture and Analyze Network Traffic Using Wireshark
 
-Objective: To capture live network packets using Wireshark, identify basic network protocols and traffic types, and analyze packet details using protocol filters.
+Objective: To capture live network packets using Wireshark, identify basic network protocols and traffic types and also analyze packet details using protocol filters.
 
 Tools Used:
 1. Wireshark – Network packet capture and protocol analysis
